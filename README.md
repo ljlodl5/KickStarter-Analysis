@@ -19,17 +19,17 @@ In addition, we may correlate success and failure factors but lack human retrosp
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
 The following conclusions can be drawn: (1) The most successful launch month is May and (2) December is a volatile launch month with campaigns having the largest amount of successes/failures. In sum, Louise may be best served by launching in or around May.  
 
-- What can you conclude about the Outcomes based on Goals?
+**- What can you conclude about the Outcomes based on Goals?**
 The following conclusions can be drawn: (1) Kickstarter campaigns less than 15k have higher chance of successful outcomes, with potential outlier activity in the 35-45k range and (2)The least successful and highest failure rates both occur within 44k-44.9k goal range and (2)
 In sum, Louise may have greater success if her campaign remains in the under 15k range as the risk of successful campaigns increases when the goal ($) is greater >15k. 
 
-- What are some limitations of this dataset?
+**- What are some limitations of this dataset?**
 Play campaigns with goals more than 25k have fewer data samples and are more difficult to draw firm conclusions.   
 
-- What are some other possible tables and/or graphs that we could create?
+**- What are some other possible tables and/or graphs that we could create?**
 Success of campaigns relative to percentage funded.  
 Success of campaigns based on average backer pledge.  
 Campaign trends between years (were outside or economic factors a contributer during certain years?)
