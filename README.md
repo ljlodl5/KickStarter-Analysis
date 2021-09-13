@@ -6,7 +6,7 @@
 
 ### Analysis and Challenges
 #### Analysis of Outcomes Based on Launch Date
-See Enclosed Chart **'Outcomes based on Launch Date'** **[https://github.com/ljlodl5/Kickstarter-Challenge/blob/main/README.md#:~:text=Theater%20Outcomes%20based%20on%20Launch%20Date.xlxs]**
+See Enclosed Chart **'Outcomes based on Launch Date'** **[https://github.com/ljlodl5/Kickstarter-Analysis-2-/blob/main/Theater_Outcomes_vs_Launch.png]**
 
 #### Analysis of Outcomes Based on Goals
 See Enclosed Chart **'Outcomes Based on Goals** **[https://github.com/ljlodl5/Kickstarter-Challenge/blob/main/Outcomes%20vs%20Goals%20.png]**
