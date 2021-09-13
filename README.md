@@ -2,7 +2,7 @@
 # **Kickstarting-Analysis**
 
 ## Overview/Purpose of Project
-**Guide Louise on how to achieve a successful theater kickstarter campaign by leveraging outcome analysis of previous kickstarter campaigns based on launch month and goals($).** 
+**Guide Louise towards a successful theater kickstarter campaign by leveraging and sharing outcome analysis of previous kickstarter campaign launch month and goals($).** 
 
 ### Analysis and Challenges
 #### Analysis of Outcomes Based on Launch Date
