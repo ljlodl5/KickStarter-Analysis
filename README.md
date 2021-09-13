@@ -9,7 +9,7 @@
 See Enclosed Chart **'Outcomes based on Launch Date'** **[https://github.com/ljlodl5/Kickstarter-Analysis-2-/blob/main/Theater_Outcomes_vs_Launch.png]**
 
 #### Analysis of Outcomes Based on Goals
-See Enclosed Chart **'Outcomes Based on Goals** **[https://github.com/ljlodl5/Kickstarter-Analysis-2-/blob/main/Outcomes%20vs%20Goals%20.png]**
+See Enclosed Chart **'Outcomes Based on Goals** **[https://github.com/ljlodl5/Kickstarter-Analysis/blob/main/Outcomes%20vs%20Goals.png]**
 
 #### Challenges and Difficulties Encountered
 Utilizing a data set of > 4k entertainment kickstarter samples, two charts have been put together to guide Louise on successful and failed campaigns.  
