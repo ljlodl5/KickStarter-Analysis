@@ -1,5 +1,5 @@
 
-# **Kickstarting with Excel**
+# **Kickstarting-Analysis**
 
 ## Overview/Purpose of Project
 **Guide Louise on how to achieve a successful theater kickstarter campaign by leveraging outcome analysis of previous kickstarter campaigns based on launch month and goals($).** 
