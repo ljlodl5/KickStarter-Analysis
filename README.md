@@ -30,8 +30,8 @@ In sum, Louise may have greater success if her campaign remains in the under 15k
 Play campaigns with goals more than 25k have fewer data samples and are more difficult to draw firm conclusions.   
 
 **- What are some other possible tables and/or graphs that we could create?**
-a) Success of campaigns relative to percentage funded.  
-b) Success of campaigns based on average backer pledge.  
+a) Success of campaigns relative to percentage funded.
+b) Success of campaigns based on average backer pledge.
 c) Campaign trends between years (were outside or economic factors a contributer during certain years?)
 d) Campaign trends between countries (Can factors within other country success rates be applied to the US?) 
 
