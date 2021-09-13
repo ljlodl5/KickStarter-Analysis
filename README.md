@@ -6,10 +6,10 @@
 
 ### Analysis and Challenges
 #### Analysis of Outcomes Based on Launch Date
-See Enclosed Chart **[Theater Outcomes based on Launch Date.xlxs]**
+See Enclosed Chart **'Outcomes based on Launch Date'** **[https://github.com/ljlodl5/Kickstarter-Challenge/blob/main/README.md#:~:text=Theater%20Outcomes%20based%20on%20Launch%20Date.xlxs]**
 
 #### Analysis of Outcomes Based on Goals
-See Enclosed Chart **[Outcomes Based on Goals.xlxs]**
+See Enclosed Chart **'Outcomes Based on Goals** **[]**
 
 #### Challenges and Difficulties Encountered
 Utilizing a data set of > 4k entertainment kickstarter samples, two charts have been put together to guide Louise on successful and failed campaigns.  
